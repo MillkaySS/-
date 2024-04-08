@@ -1,0 +1,29 @@
+/* Стили для контейнера и текста */
+#reader-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+#text-container {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+/* Стили для кнопок */
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin: 0 10px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
